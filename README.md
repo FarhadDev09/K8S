@@ -1,2 +1,2 @@
 # K8S
-kubernetes is
+kubernetes is useful
